@@ -76,14 +76,18 @@ a {
 }
 
 header {
-  height: 65px;
+  height: 70px;
   width: 100%;
-  background-color: rgba(34,49,52,0.9);
+  background-color: rgba(255,255,255,0.90);
   position :fixed;
   top: 0;
   z-index: 10;
+  border-bottom: 1px solid rgba(0,0,0,0.1);
 }
-
+header > .bar{
+  background: linear-gradient(to left, #f64f59, #c471ed, #12c2e9);
+  height: 4px;
+}
 .logo {
   width: 124px;
   margin-top: 20px;
@@ -101,7 +105,7 @@ header {
 .header-right a {
   line-height: 65px;
   padding: 0 25px;
-  color: white;
+  color: #5f5d60;
   display: block;
   float: left;
   transition: all 0.5s;
