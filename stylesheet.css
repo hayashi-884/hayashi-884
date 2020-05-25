@@ -4,7 +4,10 @@
 
 body {
   margin: 0;
-  font-family: "Monoton";
+}
+
+.f-monoton{
+  font-family: 'Monoton', cursive; 
 }
 
 a {
