@@ -18,6 +18,11 @@ body {
  font-family: 'Quicksand', sans-serif; 
 }
 
+.f-poppins{
+ font-family: 'Poppins', sans-serif; 
+}
+
+
 a {
   text-decoration: none;
 }
