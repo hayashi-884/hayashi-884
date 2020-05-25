@@ -7,7 +7,7 @@ body {
 }
 
 .f-monoton{
-  font-family: 'Monoton', cursive; 
+  font-family: 'Monoton', cursive;
 }
 
 .f-archivoblack{
@@ -15,7 +15,7 @@ body {
 }
 
 .f-quicksand{
- font-family: 'Quicksand', sans-serif; 
+ font-family: 'Quicksand', sans-serif;
 }
 
 .f-poppins{
@@ -64,7 +64,7 @@ a {
 }
 
 .signup {
-  background-color: #239b76;
+  background-color: #1e9afe;
 }
 
 .facebook {
@@ -80,13 +80,13 @@ a {
   padding: 8px 24px;
   color: white;
   display: inline-block;
-  opacity: 0.8;
+  opacity: 1;
   border-radius: 4px;
   text-align: center;
 }
 
 .btn:hover {
-  opacity: 1;
+  opacity: 0.8;
 }
 
 .fa {
